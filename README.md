@@ -5,18 +5,20 @@
 
 # I͜͡n͜͡s͜͡t͜͡a͜͡l͜͡a͜͡t͜͡i͜͡o͜͡n͜͡ I͜͡n͜͡ T͜͡e͜͡r͜͡m͜͡u͜͡x͜͡ : 👇
 
-   apt update && upgrade
+    apt update && upgrade
    
-   pkg install python
+    pkg install python
    
-   gem install lolcat
+    gem install lolcat
    
-   pip2 install lolcat
+    pip2 install lolcat
    
-   pip2 install requests
+    pip2 install requests
    
-   git clone 
    
-   cd
-   
-   python 
+    git clone https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/
+    cd ADMIN-LMNx9-INFO
+    python Social-LMNx9.py
+
+
+# 𝓛𝓸𝓿𝓮 𝓐𝓵𝓵 𝓜𝓮𝓶𝓫𝓮𝓻 🖤
