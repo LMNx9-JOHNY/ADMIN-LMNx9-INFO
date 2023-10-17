@@ -2,6 +2,7 @@
 # 📵 𝙳𝚊𝚛𝚔 𝚃𝚎𝚊𝚖 𝙻𝙼𝙽𝚡𝙹𝙾𝙷𝙽𝚈
 
 ![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/Screenshot_20231018-010206.jpg)
+![logo](https://github.com/LMNx9-JOHNY/ADMIN-LMNx9-INFO/blob/main/received_702104395109787.gif)
 
 # I͜͡n͜͡s͜͡t͜͡a͜͡l͜͡a͜͡t͜͡i͜͡o͜͡n͜͡ I͜͡n͜͡ T͜͡e͜͡r͜͡m͜͡u͜͡x͜͡ : 👇
 
